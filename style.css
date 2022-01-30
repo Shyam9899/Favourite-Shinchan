@@ -1,0 +1,23 @@
+* { 
+    padding: 0; margin: 0; 
+}
+
+canvas { 
+    background-image: "bg2.jpg"; 
+    width="480"; 
+    height="320"; 
+    display: block; 
+    margin: 0 auto;
+}
+
+body {
+    background-repeat: repeat;
+    background-size = 200%;
+}
+
+.p {
+    background: skyblue;
+    font-size: 65px;
+    text-decoration: underline;
+    text-align: center;
+}
